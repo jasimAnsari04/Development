@@ -1,3 +1,30 @@
-div {
-    height: 50px;
+.para1{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 10px;
+}
+.para2{
+    font-family: 'Courier New', Courier, monospace;
+    margin: 10px;
+}
+
+.container{
+    display: flex;
+}
+#A{
+    height: 200px;
+    width: 200px;
+    background-color: aqua;
+    margin: 10px;
+}
+#B{
+    height: 200px;
+    width: 200px;
+    background-color: bisque;
+    margin: 10px;   
+}
+#C{
+    height: 200px;
+    width: 200px;
+    background-color: aquamarine;
+    margin: 10px;
 }
